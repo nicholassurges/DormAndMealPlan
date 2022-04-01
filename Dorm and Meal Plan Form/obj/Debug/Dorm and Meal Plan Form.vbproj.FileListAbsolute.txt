@@ -1,0 +1,13 @@
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\bin\Debug\Dorm and Meal Plan Form.exe.config
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\bin\Debug\Dorm and Meal Plan Form.exe
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\bin\Debug\Dorm and Meal Plan Form.pdb
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\bin\Debug\Dorm and Meal Plan Form.xml
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\obj\Debug\Dorm and Meal Plan Form.vbprojAssemblyReference.cache
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\obj\Debug\Dorm and Meal Plan Form.vbproj.GenerateResource.cache
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\obj\Debug\Dorm and Meal Plan Form.vbproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\obj\Debug\Dorm and Meal Plan Form.exe
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\obj\Debug\Dorm and Meal Plan Form.xml
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\obj\Debug\Dorm and Meal Plan Form.pdb
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\obj\Debug\WindowsApp1.frmMain.resources
+C:\Users\nicho\Desktop\Visual BASICS\Dorm and Meal Plan Form\Dorm and Meal Plan Form\obj\Debug\WindowsApp1.frmMealPlans.resources
